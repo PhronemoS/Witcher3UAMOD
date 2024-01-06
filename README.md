@@ -1,6 +1,9 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+
 # Witcher3 UA MOD
 
-Мод перекладу гри Відьмак® 3: Дикий гін на Українську. Переклад сирий, але вже дає можливість грати Українською 
+Аматорський переклад гри "Відьмак® 3: Дикий гін" на українську. Переклад сірий, але вже дає можливість грати Українською
 
 
 
